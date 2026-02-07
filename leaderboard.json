@@ -1,4 +1,4 @@
 [
-  { "name": "Alex", "time": "04:47.9" },
-  { "name": "Sam", "time": "08:59.2" }
+  { "name": "Alex", "time": 47.9 },
+  { "name": "Sam", "time": 92.6 }
 ]
